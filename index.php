@@ -1,5 +1,12 @@
 <?php
-echo "hello asdfss";
+$name = "12";
+
+// 0 1 2 3
+$dd = ["12", "13", "14", "15"];
+
+foreach($dd as $val) {
+    echo $val
+};
+
 ?>
 
-<a href="dd.php">조윤 병진으로 이동</a>
